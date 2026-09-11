@@ -11,9 +11,7 @@
 
 ## Proposta
 
-A atividade "Detetives Digitais: Proteja Seu Mundo Online" é voltada para crianças de 8 a 11 anos e tem como tema central a segurança digital. A proposta busca ajudar as crianças a compreender, de forma simples e adequada à idade, a importância de proteger informações pessoais — como senhas e outros dados — e os cuidados necessários ao usar a internet.
-
-**Foco principal:** `<A DECIDIR — indicar explicitamente se o foco é Cibersegurança, Inteligência Artificial, ou a articulação entre os dois temas. Pelo conteúdo atual, o foco está predominantemente em Cibersegurança/proteção de dados, com IA aparecendo apenas como pano de fundo tecnológico; é preciso decidir se a IA terá um papel mais central na atividade ou se permanecerá apenas como contexto.>`
+A atividade "Detetives Digitais: Proteja Seu Mundo Online" tem como foco principal a Cibersegurança, com o objetivo de ajudar crianças de 8 a 11 anos a compreender, de forma simples e lúdica, a importância de proteger informações pessoais, como senhas e outros dados, além de outros cuidados necessários ao usar a internet. A Inteligência Artificial será incorporada de forma pontual, como parte do conteúdo de alguns "casos" investigados pelas crianças. Por exemplo, uma mensagem suspeita gerada por IA, um perfil falso criado com imagem sintética, ou um áudio falsificado, servindo como contextualizado de novas formas de golpes digitais, e não como um eixo temático independente da atividade.
 
 ## Problema e Contexto
 
