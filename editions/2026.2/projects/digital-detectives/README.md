@@ -19,9 +19,9 @@ O uso da internet e de diferentes tecnologias digitais faz cada vez mais parte d
 
 ## Público
 
-O público-alvo escolhido são crianças de 8 a 11 anos, faixa etária que já possui contato frequente com a internet e diferentes tecnologias digitais, como jogos, aplicativos e dispositivos eletrônicos. A escolha se justifica pela importância de incentivar, desde cedo, cuidados com informações pessoais e comportamentos mais conscientes no ambiente digital, apresentando os conceitos de forma simples e adequada à idade dos participantes.
+O público-alvo escolhido são crianças de 8 a 11 anos, faixa etária que já possui contato frequente com a internet e diferentes tecnologias digitais, como jogos, aplicativos e dispositivos eletrônicos. A escolha se justifica pela importância de incentivar, desde cedo, cuidados com informações pessoais e comportamentos mais conscientes no ambiente digital.
 
-`<A DECIDIR — a faixa de 8 a 11 anos é ampla em termos de desenvolvimento cognitivo e de letramento. Vale considerar se a linguagem/atividade precisa de variações internas (ex: crianças de 8-9 vs. 10-11 anos) ou se um único formato atende bem a todo o grupo.>`
+Optou-se por um formato único de atividade para todo o grupo, em vez de variações por subfaixa etária. A proposta prioriza uma linguagem simples, prática e descontraída, capaz de transmitir os conceitos de segurança digital de forma eficaz independentemente de pequenas diferenças de maturidade dentro da faixa de 8 a 11 anos, mantendo a atividade acessível e envolvente para todo o público.
 
 ## Objetivos
 
