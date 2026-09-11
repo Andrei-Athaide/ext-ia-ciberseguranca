@@ -47,30 +47,28 @@ A linguagem será simples e adequada à faixa etária, evitando explicações t�
 
 ### Contexto de Realização
 
-`<A DECIDIR — onde a atividade poderá acontecer: sala de aula, laboratório, espaço comunitário, evento aberto (como a UPA), formato online ou híbrido?>`
+A atividade será realizada em espaços escolares, principalmente em salas de aula, aproveitando o ambiente já familiar às crianças e facilitando a organização em grupos para a etapa de discussão e resolução dos "casos".
 
 ### Recursos Necessários
 
-`<A DECIDIR — quais materiais, equipamentos e recursos digitais serão necessários? Ex: fichas/cartões impressos dos "casos", projetor, som, computadores, celulares, acesso à internet, materiais gráficos (crachás de detetive, cenário etc.).>`
+Para a realização da atividade, serão necessários: uma sala equipada com caixas de som e projetor (para a apresentação e exibição do vídeo), materiais impressos para a atividade dos "casos", e materiais escolares básicos, como lápis coloridos, para o preenchimento e personalização das fichas pelas crianças.
 
 ### Desenvolvimento Prévio
 
-`<A DECIDIR — será necessário produzir previamente: roteiro dos "casos" investigativos, material gráfico (identidade visual dos detetives, cenário), vídeo de introdução, jogo físico ou protótipo digital? Ainda não definido o que precisa ser criado antes da atividade.>`
+Será necessário produzir previamente o material impresso da atividade, contendo os "casos" investigativos em formato lúdico (ilustrações de mensagens suspeitas, perfis falsos e situações de risco) para que as crianças possam pintar, desenhar e rabiscar como parte do processo de identificação e resolução dos casos, reforçando o aprendizado dos conceitos de forma prática e descontraída. Também será necessário produzir o roteiro da apresentação e selecionar ou produzir o vídeo curto a ser exibido durante a atividade.
 
 ### Desafios
 
-`<A DECIDIR — esta seção é obrigatória e ainda não foi respondida. Antecipar dificuldades técnicas, logísticas, de acesso ao público ou de acessibilidade. Pontos a considerar: a faixa etária ampla (8-11 anos) pode exigir adaptações de linguagem; a atenção de crianças pequenas pode ser limitada, exigindo uma atividade dinâmica e não muito longa; se a proposta depender de dispositivos (celular/computador/internet), é preciso considerar se esses recursos estarão disponíveis no contexto real da atividade.>`
+Um dos principais desafios será simplificar a linguagem da apresentação de forma que as crianças saiam da atividade com os conceitos de segurança digital claros e bem fixados, evitando explicações que possam confundir ou ser rapidamente esquecidas. Outro desafio é o controle do ambiente durante a atividade, já que crianças de 8 a 11 anos tendem a se dispersar ou se agitar com facilidade, principalmente durante a etapa prática (pintar/desenhar), exigindo uma condução dinâmica e atenta por parte do grupo para manter o engajamento sem perder o foco da sala.
 
 ## Resultados Esperados
 
-Espera-se que a atividade contribua para uma maior conscientização das crianças sobre a importância da segurança digital e da proteção de informações pessoais, de modo que, após a atividade, os participantes tenham uma compreensão inicial sobre a importância de proteger suas senhas e outros dados pessoais, além dos cuidados necessários durante o uso da internet.
+Espera-se que a atividade contribua para alertar as crianças sobre a importância de não confiar automaticamente em tudo que leem ou veem na internet, desenvolvendo uma postura mais cautelosa diante de mensagens suspeitas, perfis desconhecidos e pedidos de informações pessoais. Após a atividade, espera-se que os participantes demonstrem uma compreensão inicial sobre a importância de proteger senhas e dados pessoais, além dos cuidados necessários durante o uso da internet.
 
-`<A DECIDIR — o template pede para evitar resultados vagos como "conscientizar" sem indicar como isso seria percebido. Definir evidências concretas, por exemplo: as crianças conseguem apontar corretamente qual atitude é arriscada em um "caso" apresentado ao final da atividade; participação ativa nas discussões em grupo; respostas dadas em uma roda de conversa final ou pequeno quiz informal.>`
+Como evidência de que os objetivos foram alcançados, espera-se que as crianças consigam identificar corretamente, na atividade impressa, quais situações representam risco (como uma mensagem pedindo senha ou um perfil suspeito) e expliquem, mesmo que de forma simples, por que aquela atitude é perigosa, seja durante a resolução dos casos, seja em uma conversa final sobre o que aprenderam.
 
 ## Referências
 
 - ECA Digital: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15211.htm
 - Marco Civil da Internet: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm
 - Como proteger crianças e adolescentes na internet (Fundação ABRINQ): https://www.fadc.org.br/noticias/proteger-criancas-internet
-
-`<A DECIDIR — o template sugere referências que fundamentem tanto o problema quanto as escolhas feitas para a atividade (ex: artigos sobre letramento digital infantil, experiências similares de gamificação em educação digital para crianças). As três referências atuais são boas para o contexto legal/institucional, mas vale complementar com pelo menos uma fonte pedagógica ou de experiência prática.>`
