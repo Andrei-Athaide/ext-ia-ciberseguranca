@@ -1,131 +1,78 @@
-# `<Título do Projeto>`
-
-> Substitua pelo título do projeto. O título deve comunicar a proposta de maneira clara e, quando apropriado, despertar o interesse do público escolhido.
->
-> **Exemplo:** na UPA de 2025, o grupo de pesquisas AIMS (Artificial Intelligence and Multimodal Signal Processing) do DCA/FEEC organizou um conjunto de atividades denominado **“Expedição IA: Do Meme ao Apocalipse”**. O título utilizava uma linguagem bem-humorada e referências próximas ao universo de estudantes do Ensino Médio para introduzir questões que, apesar da abordagem lúdica, eram sérias.
->
-> O exemplo não representa um formato a ser reproduzido. Pense em um título adequado ao tema, à proposta e ao público específico do seu projeto.
->
-> **Antes de submeter a E1:** remova todas as instruções apresentadas em blockquotes (`>`), incluindo esta.
+# Detetives Digitais: Proteja Seu Mundo Online
 
 ## Equipe
 
 | Nome | RA | Curso |
 | --- | --- | --- |
-| `<Nome completo>` | `<RA>` | `<Curso>` |
-| `<Nome completo>` | `<RA>` | `<Curso>` |
-| `<Nome completo>` | `<RA>` | `<Curso>` |
+| Miguel Fiorin | 255540 | `<A DECIDIR>` |
+| Rafael Machado de Almeida Garibalde | 277225 | `<A DECIDIR>` |
+| Pedro José Sinício de Abreu | 241584 | `<A DECIDIR>` |
+| Arthur Benício | 194359 | `<A DECIDIR>` |
 
 ## Proposta
 
-> Em um ou dois parágrafos, apresente a ideia central da atividade. O que vocês pretendem desenvolver? Que experiência pretendem proporcionar ao público?
->
-> Indique se o foco principal estará relacionado a **Inteligência Artificial, Cibersegurança ou à articulação entre esses temas**.
->
-> Neste momento, não é necessário descrever todos os detalhes. Uma pessoa que ainda não conhece o projeto deve conseguir compreender rapidamente **o que está sendo proposto e para quem**.
+A atividade "Detetives Digitais: Proteja Seu Mundo Online" é voltada para crianças de 8 a 11 anos e tem como tema central a segurança digital. A proposta busca ajudar as crianças a compreender, de forma simples e adequada à idade, a importância de proteger informações pessoais — como senhas e outros dados — e os cuidados necessários ao usar a internet.
 
-`<Apresente aqui a síntese da proposta.>`
+**Foco principal:** `<A DECIDIR — indicar explicitamente se o foco é Cibersegurança, Inteligência Artificial, ou a articulação entre os dois temas. Pelo conteúdo atual, o foco está predominantemente em Cibersegurança/proteção de dados, com IA aparecendo apenas como pano de fundo tecnológico; é preciso decidir se a IA terá um papel mais central na atividade ou se permanecerá apenas como contexto.>`
 
 ## Problema e Contexto
 
-> Que problema, necessidade, questão, curiosidade ou oportunidade motiva o projeto? Por que esse tema merece ser trabalhado em uma atividade de extensão?
->
-> Contextualize sua relevância social e sua relação com Literacia Digital, Inteligência Artificial e/ou Cibersegurança.
->
-> Evite justificativas genéricas como “IA é importante atualmente” ou “cibersegurança é um tema cada vez mais relevante”. Procure explicar **por que determinado aspecto desse tema é relevante no contexto e para o público escolhidos**.
-
-`<Apresente aqui o problema, sua motivação e seu contexto.>`
+O uso da internet e de diferentes tecnologias digitais faz cada vez mais parte do cotidiano das crianças, tornando importante que elas compreendam desde cedo cuidados básicos de proteção de informações pessoais e de segurança no ambiente digital. A proposta surgiu do interesse em fazer as crianças refletirem sobre situações que podem ocorrer durante o uso da internet, como o compartilhamento de informações pessoais e a interação com pessoas desconhecidas, contribuindo para uma utilização mais consciente e segura das tecnologias.
 
 ## Público
 
-> Para quem a atividade será desenvolvida?
->
-> Caracterize o público considerando aspectos relevantes para a proposta, como faixa etária, contexto social ou profissional, familiaridade com tecnologia, interesses, experiências e necessidades.
->
-> Explique por que esse público foi escolhido e como o problema identificado se manifesta ou é relevante para ele.
->
-> **Exemplo:** uma atividade sobre golpes digitais destinada a pessoas idosas provavelmente exigirá escolhas de linguagem, situações e formas de interação diferentes de uma atividade sobre o mesmo tema destinada a estudantes do Ensino Médio. A definição do público deve influenciar a concepção da atividade, e não aparecer apenas como uma informação descritiva.
+O público-alvo escolhido são crianças de 8 a 11 anos, faixa etária que já possui contato frequente com a internet e diferentes tecnologias digitais, como jogos, aplicativos e dispositivos eletrônicos. A escolha se justifica pela importância de incentivar, desde cedo, cuidados com informações pessoais e comportamentos mais conscientes no ambiente digital, apresentando os conceitos de forma simples e adequada à idade dos participantes.
 
-`<Caracterize aqui o público e justifique sua escolha.>`
+`<A DECIDIR — a faixa de 8 a 11 anos é ampla em termos de desenvolvimento cognitivo e de letramento. Vale considerar se a linguagem/atividade precisa de variações internas (ex: crianças de 8-9 vs. 10-11 anos) ou se um único formato atende bem a todo o grupo.>`
 
 ## Objetivos
 
 ### Objetivo Geral
 
-> O que a atividade pretende proporcionar ao público?
->
-> Evite definir o objetivo apenas pelo artefato que será produzido. “Produzir um jogo”, “fazer um vídeo” ou “desenvolver um aplicativo” descrevem possíveis **meios**, e não necessariamente o objetivo da atividade de extensão.
-
-`<Apresente aqui o objetivo geral.>`
+Promover uma reflexão inicial sobre segurança digital entre crianças de 8 a 11 anos, incentivando cuidados na proteção de informações pessoais e no uso consciente da internet.
 
 ### Objetivos Específicos
 
-> Indique os principais resultados de aprendizagem, sensibilização, reflexão, experimentação ou desenvolvimento pretendidos.
->
-> Procure expressar o que se espera que os participantes possam **compreender, experimentar, questionar, reconhecer, discutir ou desenvolver**.
-
-- `<Objetivo específico 1>`
-- `<Objetivo específico 2>`
-- `<Objetivo específico 3>`
+- Apresentar a importância de proteger informações pessoais e senhas.
+- Incentivar cuidados ao compartilhar informações na internet.
+- Estimular a reflexão sobre possíveis situações de risco no ambiente digital.
 
 ## Concepção da Experiência
 
-> Descreva como vocês imaginam, neste momento, que a atividade será vivenciada pelo público. O formato ainda pode ser refinado nas próximas entregas.
->
-> Considere, quando pertinente:
->
-> - o tipo de experiência: jogo, oficina, experimento, demonstração, narrativa, desafio, debate, produção coletiva etc.;
-> - a adequação da linguagem e das mídias ao público;
-> - histórias, situações, metáforas ou problemas que aproximem o tema da realidade dos participantes;
-> - oportunidades para tomar decisões, experimentar caminhos, cometer erros, levantar hipóteses ou questionar resultados;
-> - estímulo ao pensamento crítico e à autonomia, em vez da simples transmissão de informações;
-> - interação, colaboração ou troca entre os participantes.
->
-> **Exemplo:** em vez de simplesmente explicar quais características tornam uma mensagem suspeita de phishing, uma atividade poderia apresentar diferentes mensagens e pedir aos participantes que decidam quais parecem legítimas, justifiquem suas decisões e revejam seus critérios após a discussão. O conteúdo passa a ser trabalhado por meio de **decisão, experimentação, erro e reflexão**.
->
-> Não é necessário incorporar todos os elementos acima. Utilize aqueles que façam sentido para a proposta.
+A atividade utilizará uma narrativa de investigação: as crianças assumem o papel de "detetives iniciantes" que recebem um chamado da Central de Segurança Digital para desvendar mistérios do mundo online, como senhas roubadas, mensagens suspeitas e perfis falsos. Essa narrativa se conecta à realidade do público porque todas as crianças já usam a internet para jogar, ver vídeos ou estudar, e muitas já ouviram falar de golpes ou viram situações estranhas, o que torna a missão próxima e significativa. Ela também aumenta o engajamento ao transformar a atividade em uma aventura com "casos" a resolver, despertando a curiosidade natural das crianças por mistérios e fazendo-as se sentir protagonistas da própria segurança.
 
-`<Descreva aqui a concepção inicial da experiência.>`
+A linguagem será simples e adequada à faixa etária, evitando explicações técnicas, com exemplos relacionados ao cotidiano infantil de uso da internet. A atividade buscará incentivar o pensamento autônomo ao propor que as crianças analisem situações (os "casos") e decidam quais informações devem ser protegidas e quais atitudes são arriscadas, em vez de apenas receber regras prontas. Também está prevista interação entre os participantes, com discussões ou dinâmicas em grupo em que a colaboração contribua para que as crianças compartilhem opiniões e reflitam conjuntamente sobre os casos.
+
+`<A DECIDIR — definir o formato concreto da experiência: os "casos" serão apresentados em fichas impressas, cartões, um jogo de tabuleiro, uma dinâmica com celular/tablet, encenação/teatro, ou outro formato? O template pede que o tipo de experiência (jogo, oficina, experimento, narrativa, desafio etc.) seja explicitado, e isso ainda não foi decidido.>`
 
 ## Viabilidade e Planejamento Inicial
 
-> Faça uma primeira avaliação das condições reais para executar a proposta. Não é necessário apresentar na E1 um planejamento operacional completo.
-
 ### Contexto de Realização
 
-`<Onde e em que contexto a atividade poderá acontecer?>`
+`<A DECIDIR — onde a atividade poderá acontecer: sala de aula, laboratório, espaço comunitário, evento aberto (como a UPA), formato online ou híbrido?>`
 
 ### Recursos Necessários
 
-`<Quais materiais, equipamentos e recursos digitais parecem necessários?>`
+`<A DECIDIR — quais materiais, equipamentos e recursos digitais serão necessários? Ex: fichas/cartões impressos dos "casos", projetor, som, computadores, celulares, acesso à internet, materiais gráficos (crachás de detetive, cenário etc.).>`
 
 ### Desenvolvimento Prévio
 
-`<Será necessário produzir jogo, roteiro, vídeo, software, material gráfico, protótipo ou outro recurso?>`
+`<A DECIDIR — será necessário produzir previamente: roteiro dos "casos" investigativos, material gráfico (identidade visual dos detetives, cenário), vídeo de introdução, jogo físico ou protótipo digital? Ainda não definido o que precisa ser criado antes da atividade.>`
 
 ### Desafios
 
-> Antecipe dificuldades técnicas, logísticas, de acesso ao público, acessibilidade ou de outra natureza.
->
-> **Exemplo:** se a proposta depende de cada participante utilizar um celular conectado à Internet, considere se esse recurso estará realmente disponível para o público e no contexto da atividade.
-
-`<Apresente aqui os principais desafios já identificados.>`
+`<A DECIDIR — esta seção é obrigatória e ainda não foi respondida. Antecipar dificuldades técnicas, logísticas, de acesso ao público ou de acessibilidade. Pontos a considerar: a faixa etária ampla (8-11 anos) pode exigir adaptações de linguagem; a atenção de crianças pequenas pode ser limitada, exigindo uma atividade dinâmica e não muito longa; se a proposta depender de dispositivos (celular/computador/internet), é preciso considerar se esses recursos estarão disponíveis no contexto real da atividade.>`
 
 ## Resultados Esperados
 
-> Que transformação, aprendizado, reflexão ou experiência vocês esperam proporcionar?
->
-> Como seria possível perceber se a atividade atingiu seus principais objetivos? Não é necessário definir ainda um método formal de avaliação, mas evite resultados vagos como “conscientizar o público” sem explicar **o que poderia mudar, ser percebido ou demonstrado**.
+Espera-se que a atividade contribua para uma maior conscientização das crianças sobre a importância da segurança digital e da proteção de informações pessoais, de modo que, após a atividade, os participantes tenham uma compreensão inicial sobre a importância de proteger suas senhas e outros dados pessoais, além dos cuidados necessários durante o uso da internet.
 
-`<Descreva aqui os resultados esperados e possíveis evidências de que os objetivos foram alcançados.>`
+`<A DECIDIR — o template pede para evitar resultados vagos como "conscientizar" sem indicar como isso seria percebido. Definir evidências concretas, por exemplo: as crianças conseguem apontar corretamente qual atitude é arriscada em um "caso" apresentado ao final da atividade; participação ativa nas discussões em grupo; respostas dadas em uma roda de conversa final ou pequeno quiz informal.>`
 
 ## Referências
 
-> Liste as fontes que contribuíram para a proposta: artigos científicos, livros, materiais educacionais, sites institucionais, projetos de extensão, experiências semelhantes ou outras fontes relevantes.
->
-> Procure incluir referências que fundamentem tanto **o problema e sua relevância para o público** quanto **as escolhas feitas para a atividade**.
->
-> Não é necessária uma revisão bibliográfica extensa na E1.
+- ECA Digital: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15211.htm
+- Marco Civil da Internet: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm
+- Como proteger crianças e adolescentes na internet (Fundação ABRINQ): https://www.fadc.org.br/noticias/proteger-criancas-internet
 
-- `<Referência 1>`
-- `<Referência 2>`
+`<A DECIDIR — o template sugere referências que fundamentem tanto o problema quanto as escolhas feitas para a atividade (ex: artigos sobre letramento digital infantil, experiências similares de gamificação em educação digital para crianças). As três referências atuais são boas para o contexto legal/institucional, mas vale complementar com pelo menos uma fonte pedagógica ou de experiência prática.>`
