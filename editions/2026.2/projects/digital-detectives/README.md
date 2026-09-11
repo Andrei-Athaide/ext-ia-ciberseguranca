@@ -4,10 +4,10 @@
 
 | Nome | RA | Curso |
 | --- | --- | --- |
-| Miguel Fiorin | 255540 | `Estatística` |
-| Rafael Machado de Almeida Garibalde | 277225 | `Estatística` |
-| Pedro José Sinício de Abreu | 241584 | `Estatística` |
-| Arthur Benício | 194359 | `Engenharia Elétrica` |
+| Miguel Fiorin | 255540 | Estatística |
+| Rafael Machado de Almeida Garibalde | 277225 | Estatística |
+| Pedro José Sinício de Abreu | 241584 | Estatística |
+| Arthur Benício | 194359 | Engenharia Elétrica |
 
 ## Proposta
 
