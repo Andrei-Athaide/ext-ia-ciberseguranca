@@ -4,11 +4,11 @@
 
 | Nome | RA | Curso |
 | --- | --- | --- |
-| `<Andrei de Oliveira Athaide>` | `<221935>` | `<Curso>` |
-| `<Clayton Alves Luiz>` | `<246763>` | `<Curso>` |
-| `<Eduardo Barbosa Jubilado>` | `<217494>` | `<Curso>` |
-| `<Mateus Canêdo Faleiro>` | `<295858>` | `<Curso>` |
-| `<Nome completo>` | `<RA>` | `<Curso>` |
+| `<Andrei de Oliveira Athaide>` | `<221935>` | `<Engenharia de Computação>` |
+| `<Clayton Alves Luiz>` | `<246763>` | `<Matemática Aplicada e Computacional>` |
+| `<Eduardo Barbosa Jubilado>` | `<217494>` | `<Matemática Aplicada e Computacional>` |
+| `<Mateus Canêdo Faleiro>` | `<295858>` | `<Matemática Aplicada e Computacional>` |
+| `<Murilo Matos Chernatovicz Riberio>` | `<198273>` | `<Estatística>` |
 
 ## Proposta
 
