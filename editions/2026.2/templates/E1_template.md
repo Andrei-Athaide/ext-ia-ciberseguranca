@@ -1,48 +1,72 @@
-# ECA DIGITAL
+# `<Título do Projeto>`
+
+> Substitua pelo título do projeto. O título deve comunicar a proposta de maneira clara e, quando apropriado, despertar o interesse do público escolhido.
+>
+> **Exemplo:** na UPA de 2025, o grupo de pesquisas AIMS (Artificial Intelligence and Multimodal Signal Processing) do DCA/FEEC organizou um conjunto de atividades denominado **“Expedição IA: Do Meme ao Apocalipse”**. O título utilizava uma linguagem bem-humorada e referências próximas ao universo de estudantes do Ensino Médio para introduzir questões que, apesar da abordagem lúdica, eram sérias.
+>
+> O exemplo não representa um formato a ser reproduzido. Pense em um título adequado ao tema, à proposta e ao público específico do seu projeto.
+>
+> **Antes de submeter a E1:** remova todas as instruções apresentadas em blockquotes (`>`), incluindo esta.
 
 ## Equipe
 
 | Nome | RA | Curso |
 | --- | --- | --- |
-| `Júlia Curie Takara Chaves` |  `233837`  | `Curso` |
-| `Wan Tai Cheuk` | `277240` | `Estatística?` |
-| `Guilherme José de Oliveira Almeida` | `281218` | `Engenharia de Computação` |
+| `<Nome completo>` | `<RA>` | `<Curso>` |
+| `<Nome completo>` | `<RA>` | `<Curso>` |
+| `<Nome completo>` | `<RA>` | `<Curso>` |
 
 ## Proposta
 
-> Pretendemos conscientizar o público infantil por meio de palestra e dinâmica de jogos acerca de cuidados necessários durante o uso de internet, com foco em Cibersegurança.
+> Em um ou dois parágrafos, apresente a ideia central da atividade. O que vocês pretendem desenvolver? Que experiência pretendem proporcionar ao público?
 >
+> Indique se o foco principal estará relacionado a **Inteligência Artificial, Cibersegurança ou à articulação entre esses temas**.
+>
+> Neste momento, não é necessário descrever todos os detalhes. Uma pessoa que ainda não conhece o projeto deve conseguir compreender rapidamente **o que está sendo proposto e para quem**.
+
+`<Apresente aqui a síntese da proposta.>`
 
 ## Problema e Contexto
+
+> Que problema, necessidade, questão, curiosidade ou oportunidade motiva o projeto? Por que esse tema merece ser trabalhado em uma atividade de extensão?
 >
-> As questões que nos despertam a motivação inicial é: o desconhecimento do público alvo em torno dos perigos de ambientes online. Proteger crianças que navegam sem supervisão efetiva em ambientes feitos para adultos. Fazê-las entender que dados pessoais são importantes e podem virar dados que podem ser usados indevidamente.
+> Contextualize sua relevância social e sua relação com Literacia Digital, Inteligência Artificial e/ou Cibersegurança.
 >
-> A escolha do tema juntamente com o público alvo representa alta relevância social, pois uma geração futura mais consciente significa menos dados vazados, menos fraudes e menos adultos vulneráveis. A internet é um ambiente perigoso para todas as idades, mas atualmente as crianças estão sendo conectadas a esse ambiente cada vez mais cedo e de forma irregular já que muitas não reconhecem os perigos e não sabem como se proteger pois sua inocência as torna alvos fáceis. A Lei nº 15.211/2025 foi criada para protegê-las, mas elas mesmas não entendem o porquê dessa proteção nem do que estão sendo protegidas.
->
+> Evite justificativas genéricas como “IA é importante atualmente” ou “cibersegurança é um tema cada vez mais relevante”. Procure explicar **por que determinado aspecto desse tema é relevante no contexto e para o público escolhidos**.
+
+`<Apresente aqui o problema, sua motivação e seu contexto.>`
 
 ## Público
 
-> Crianças de 8 a 11 anos. Este público aprende bastante na prática, tem a vida social centrada nos amigos e ainda não é capaz de notar os diversos perigos virtuais. Além de serem ativas e buscarem respeito, elas só se engajam em orientações e ensinamentos sobre tecnologia e segurança se o formato for prático e dinâmico. Palestras e aulas não seriam ideais pois o público apesar de apresentar características de curiosidade, vontade de aprender, elas também são bastante energéticas e desprendem a atenção e foco muito rapidamente.
+> Para quem a atividade será desenvolvida?
+>
+> Caracterize o público considerando aspectos relevantes para a proposta, como faixa etária, contexto social ou profissional, familiaridade com tecnologia, interesses, experiências e necessidades.
 >
 > Explique por que esse público foi escolhido e como o problema identificado se manifesta ou é relevante para ele.
 >
-> O público infantil foi escolhido pois temos uma liberdade maior ao trabalhar com ele. As crianças são mais receptíveis a diferentes ideias se apresentadas num formato que as interesse. Além disso, podemos expressar de maneira criativa as ideias do grupo e propor formatos de oficina que funcionem de maneira lúdica e divertida.
-> 
+> **Exemplo:** uma atividade sobre golpes digitais destinada a pessoas idosas provavelmente exigirá escolhas de linguagem, situações e formas de interação diferentes de uma atividade sobre o mesmo tema destinada a estudantes do Ensino Médio. A definição do público deve influenciar a concepção da atividade, e não aparecer apenas como uma informação descritiva.
+
+`<Caracterize aqui o público e justifique sua escolha.>`
 
 ## Objetivos
 
 ### Objetivo Geral
 
-> Capacitar crianças a evitarem e combaterem os perigos da internet por meio de conscientização.
+> O que a atividade pretende proporcionar ao público?
 >
+> Evite definir o objetivo apenas pelo artefato que será produzido. “Produzir um jogo”, “fazer um vídeo” ou “desenvolver um aplicativo” descrevem possíveis **meios**, e não necessariamente o objetivo da atividade de extensão.
+
+`<Apresente aqui o objetivo geral.>`
 
 ### Objetivos Específicos
 
+> Indique os principais resultados de aprendizagem, sensibilização, reflexão, experimentação ou desenvolvimento pretendidos.
 >
+> Procure expressar o que se espera que os participantes possam **compreender, experimentar, questionar, reconhecer, discutir ou desenvolver**.
 
-- `Crianças poderem identificar e classificar informações seguras e pessoais.`
-- `Desenvolver pensamento crítico`
-- `Aplicar conhecimentos em dinâmicas práticas.`
+- `<Objetivo específico 1>`
+- `<Objetivo específico 2>`
+- `<Objetivo específico 3>`
 
 ## Concepção da Experiência
 
@@ -57,11 +81,11 @@
 > - estímulo ao pensamento crítico e à autonomia, em vez da simples transmissão de informações;
 > - interação, colaboração ou troca entre os participantes.
 >
-> A proposta inicial é criar um jogo de detetive com narrativa de caça ao hacker, histórias com suspeitos e pistas, atividades físicas, slides projetados com mensagens de phishing e códigos para decifrar, além de materiais impressos como crachás, cartões de suspeitos, cartazes, pistas e certificados. 
+> **Exemplo:** em vez de simplesmente explicar quais características tornam uma mensagem suspeita de phishing, uma atividade poderia apresentar diferentes mensagens e pedir aos participantes que decidam quais parecem legítimas, justifiquem suas decisões e revejam seus critérios após a discussão. O conteúdo passa a ser trabalhado por meio de **decisão, experimentação, erro e reflexão**.
 >
-> **Linguagem para o público selecionado:** Pensamos em ensinar utilizando brincadeiras nas quais elas precisem se movimentar e pensar rápido. Ou seja, adaptamos uma parte da oficina para um estilo de competição.
->
-> **Uso de materiais originais:** O jogo foi desenvolvido pensado nessa oficina e não achamos algo exatamente parecido nas pesquisas, logo o material é original.
+> Não é necessário incorporar todos os elementos acima. Utilize aqueles que façam sentido para a proposta.
+
+`<Descreva aqui a concepção inicial da experiência.>`
 
 ## Viabilidade e Planejamento Inicial
 
@@ -69,34 +93,39 @@
 
 ### Contexto de Realização
 
- `Pensamos inicialmente em realizar a oficina em sala de aula ou em algum espaço da escola de maneira presencial.`
- 
+`<Onde e em que contexto a atividade poderá acontecer?>`
+
 ### Recursos Necessários
 
-`Queremos realizar a distribuição de certificados no fim da oficina pois as crianças sentirão a sensação de dever cumprido. Ainda não pensamos em todos os mini desafios mas talvez seja necessário o uso do canva ou algum aplicativo.`
->
-> **Recursos Tecnológicos**: `Os mini jogos provavelmente irão conter sim recursos tecnológicos como slides que irão ser passados em projetores.`
-
+`<Quais materiais, equipamentos e recursos digitais parecem necessários?>`
 
 ### Desenvolvimento Prévio
 
-`A produção de certificados e a criação dos mini jogos.`
+`<Será necessário produzir jogo, roteiro, vídeo, software, material gráfico, protótipo ou outro recurso?>`
 
 ### Desafios
 
 > Antecipe dificuldades técnicas, logísticas, de acesso ao público, acessibilidade ou de outra natureza.
 >
+> **Exemplo:** se a proposta depende de cada participante utilizar um celular conectado à Internet, considere se esse recurso estará realmente disponível para o público e no contexto da atividade.
+
+`<Apresente aqui os principais desafios já identificados.>`
+
 ## Resultados Esperados
 
-> 
-> Esperamos que as crianças saiam da oficina sabendo identificar dados pessoais, reconhecer golpes, cyberbullying, e pedir ajuda. Além disso, queremos que elas desenvolvam o pensamento crítico para evitar essas situações e que saibam se portar em ambiente online.
-> 
-> **Avaliação dos resultados:** Inicialmente a ideia é usar o Teste de Wilcoxon pois vamos comparar as mesmas crianças e suas respostas no antes e depois da oficina. Vamos trabalhar com uma sala por vez e uma amostra de 30 crianças não seria ideal para seguir uma distribuição normal. O teste calcula as diferenças entre o pré e o pós, ordena por ranks e verifica se a mediana das diferenças é significativamente diferente de zero. Se p < 0,05, rejeita-se a hipótese nula e conclui-se que a oficina teve efeito significativo. Se p ≥ 0,05, não se pode afirmar que houve mudança.
-
-> Se houver participação ativa nas atividades e elas tiverem a capacidade de justificar as escolhas  podemos considerar um sucesso. Além disso, teremos o teste estatístico que fornece um indicador quantitativo de melhora no entendimento. Com isso, podemos avaliar alterações referente ao peso da explicação teórica, dinâmica, e abordagem utilizada pensando no público alvo.
-> 
-## Referências
+> Que transformação, aprendizado, reflexão ou experiência vocês esperam proporcionar?
 >
-- ` FERNANDES, Raquel Moreira Machado; MOTTA, Claudia Lage Rebello da; CARMO, Luiz Fernando Rust da Costa. Cibersegurança e Educação: um estudo de caso com uso de IA para mitigação e detecção de ameaças contra crianças e adolescentes em ambientes digitais. In: CONCURSO DE TESES E DISSERTAÇÕES EM EDUCAÇÃO EM COMPUTAÇÃO - SIMPÓSIO BRASILEIRO DE EDUCAÇÃO EM COMPUTAÇÃO (EDUCOMP), 6. , 2026, Campo Grande/MS. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2026 . p. 80-84. ISSN 3086-0741. DOI: https://doi.org/10.5753/educomp_estendido.2026.20117.`
-> 
-- `COUGO, Cecília Dutra Garcia. Educação e cibersegurança: práticas pedagógicas para a formação de alunos conscientes no uso da internet. 2025. Trabalho de Conclusão de Curso (Licenciatura em Computação e Robótica Educativa) – Universidade Federal do Rio Grande do Sul, Campus Litoral Norte, 2025. Disponível em: https://lume.ufrgs.br/handle/10183/290613`.
+> Como seria possível perceber se a atividade atingiu seus principais objetivos? Não é necessário definir ainda um método formal de avaliação, mas evite resultados vagos como “conscientizar o público” sem explicar **o que poderia mudar, ser percebido ou demonstrado**.
+
+`<Descreva aqui os resultados esperados e possíveis evidências de que os objetivos foram alcançados.>`
+
+## Referências
+
+> Liste as fontes que contribuíram para a proposta: artigos científicos, livros, materiais educacionais, sites institucionais, projetos de extensão, experiências semelhantes ou outras fontes relevantes.
+>
+> Procure incluir referências que fundamentem tanto **o problema e sua relevância para o público** quanto **as escolhas feitas para a atividade**.
+>
+> Não é necessária uma revisão bibliográfica extensa na E1.
+
+- `<Referência 1>`
+- `<Referência 2>`
