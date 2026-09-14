@@ -4,8 +4,9 @@
 
 | Nome | RA | Curso |
 | --- | --- | --- |
-| `Júlia Curie Takara Chaves` |  `233837`  | `Curso` |
-| `Wan Tai Cheuk` | `277240` | `Estatística?` |
+| `Júlia Curie Takara Chaves` |  `233837`  | `Engenharia de Alimentos` |
+| `Matheus Pierri de Oliveira` | `277209` | `Estatística` |
+| `Wan Tai Cheuk` | `277240` | `Estatística` |
 | `Guilherme José de Oliveira Almeida` | `281218` | `Engenharia de Computação` |
 
 ## Proposta
