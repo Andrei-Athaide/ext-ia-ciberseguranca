@@ -1,4 +1,4 @@
-# Literacia Digital e Prevenção de Golpes
+# Click Seguro: Descomplicando a tecnologia para uma rotina mais segura.
 
 ## Equipe
 
