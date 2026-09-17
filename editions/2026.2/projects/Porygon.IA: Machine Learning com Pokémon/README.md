@@ -7,7 +7,7 @@
 |Gabriel Rodrigues Mendes | 275096 | Tecnologia em Análise e Desenvolvimento de Sistemas |
 | Matheus Simon de Paula | 277342 | Química |
 | Lucas Masahide Mascarenhas Uematsu | 258308 | Engenharia Mecânica |
-| Vinícius Souza Cedraz | 282645 | Engenharia Agrícola |
+| Vinícius Souza Cedraz | 282645 | Engenharia Mecânica |
 | Luis Felipe Godoy | 277197 | Estatística |
 
 
