@@ -43,15 +43,19 @@ A experiência será realizada por meio de uma oficina presencial, dividida em i
 
 ### Roteiro da Atividade
 
-#### 1. "Quebra-gelo": Atividade de Motivação Inicial (5 minutos)
+### 1. Questionário Inicial (5 minutos)
+
+O grupo vai entregar individualmente, sem necessariamente a oficia ter começado, um formulário impresso com 5 perguntas alternativas. O objetivo é ter uma primeira métrica para comparar com a etapa de número sete.
+
+#### 2. "Quebra-gelo": Atividade de Motivação Inicial (5 minutos)
 
 Apresentaremos slides com imagens geradas por inteligência artificial e imagens reais. Nosso objetivo é motivar a atividade e mostrar quão avançadas e próximas da realidade estão as imagens geradas artificialmente.
 
-#### 2. Introdução Teórica: Cibersegurança e Inteligência Artificial (5 minutos)
+#### 3. Introdução Teórica: Cibersegurança e Inteligência Artificial (5 minutos)
 
 Serão apresentados conceitos básicos de cibersegurança e inteligência artificial, contextualizando a presença de ambas no cotidiano. A introdução será breve e utilizará uma linguagem simples, preparando os participantes para as atividades seguintes.
 
-#### 3. Golpes na Internet (15 minutos)
+#### 4. Golpes na Internet (20 minutos)
 
 Faremos uma apresentação de golpes comuns:
 
@@ -68,25 +72,22 @@ As ferramentas que o grupo vai usar para as simulações estão abaixo, disponí
 - **[Zphisher](https://github.com/htr-tech/zphisher):** Utilizado para gerar páginas de phishing com captação de dados em tempo real.
 - **[Cloudflare Tunnel (Cloudflared)](https://github.com/cloudflare/cloudflared):** Utilizado para garantir o acesso à página gerada pelo Zphisher a partir de qualquer dispositivo, evitando problemas de localhost.
 
-#### 4. Segurança Digital: Como se Defender de Golpes (20 minutos)
+#### 5. Segurança Digital: Como se Defender de Golpes (20 minutos)
 
 Após a apresentação dos principais tipos de golpes, serão abordadas medidas práticas de prevenção e proteção no mundo virtual. Mostraremos um passo a passo do que pode ser feito caso a pessoa suspeite de que está sendo vítima de um golpe.
 
-#### 5. Organização dos Grupos e Quiz (25 minutos)
+#### 6. Questionário Final (10 minutos)
 
-Os participantes serão organizados em grupos para a realização de um quiz sobre os conteúdos apresentados durante a oficina.
-
-A atividade será realizada em grupo para estimular a conversa, a troca de experiências e a construção coletiva das respostas. Os participantes poderão discutir entre si antes de escolher uma alternativa, permitindo que diferentes percepções sejam compartilhadas.
-
-Após cada pergunta, faremos uma análise das alternativas e explicaremos por que cada uma está certa ou errada.
-
-#### 6. Sessão para Sanar Dúvidas (10 minutos)
-
-Apesar de não ser necessariamente uma etapa, acreditamos que várias dúvidas podem surgir durante a oficina; por isso, este tempo está destinado a respondê-las.
+Como citado anteriormente, um questionário igual ao inicial será passado para ter uma métrica final comparativa.
 
 #### 7. Coleta de Feedback (5 minutos)
 
 Assim que encerrarmos o conteúdo programado, disponibilizaremos um período para que os participantes relatem sua visão sobre a oficina e como se sentiram, seja por áudio ou por escrito.
+
+#### 8. Sessão para sanar dúvidas (10 minutos)
+
+Apesar de não ser necessariamente uma etapa, acreditamos que várias dúvidas podem surgir durante a oficina; por isso, este tempo está destinado a respondê-las.
+
 
 | Etapa | Duração | Atividade | Participação do público | Recursos |
 | --- | ---: | --- | --- | --- |
@@ -98,7 +99,7 @@ Assim que encerrarmos o conteúdo programado, disponibilizaremos um período par
 | `6. Dúvidas` | `5 min` | `Espaço para responder às dúvidas` | `Fazem perguntas` | `—` |
 | `7. Feedback` | `5 min` | `Coleta das impressões sobre a oficina` | `Relatam suas impressões por áudio ou por escrito` | `Papel, lápis ou caneta` |
 
-**Duração total estimada:** 50 minutos.
+**Duração total estimada:** 1 hora e 30 minutos.
 
 ## Planejamento da Primeira Aplicação
 
@@ -188,6 +189,54 @@ No fim da atividade, deixaremos um espaço para dúvidas e sugestões. Pediremos
 | `Problemas técnicos` | `Impossibilitar o uso de slides` | `Levaremos material impresso` |
 | `Problemas relacionados à saúde no local` | `Interrupção da oficina ` | `Contaremos com a ajuda de enfermeiros e/ou profissionais de geriatria` |
 
+### Contexto da Aplicação
+
+> Registre apenas as informações necessárias para compreender a atividade realizada. Não inclua dados pessoais dos participantes ou contatos individuais.
+
+- **Data ou período:** `<23/10/2026>`
+- **Local/contexto:** `<Associação Pró Bairro - Barão Geraldo>`
+- **Público atendido:** `<Idosos>`
+- **Número aproximado de participantes:** `<12>`
+- **Duração efetiva:** `<1 hora e 30 minuto>`
+
+### O que Aconteceu e o que Aprendemos
+
+> Faça uma análise breve, mas concreta. Compare a experiência com o roteiro e os objetivos planejados. Indique o que funcionou bem, o que não funcionou e o que surpreendeu o grupo. Evite apenas afirmar que “foi um sucesso”: dê exemplos ou evidências.
+
+A eperiencia foi etremamente poitiva para o público preente, io se evidenciou pela média de 9.8 das avaliacoes pós-oficina. Como explicitado na entrega 3, otimizamos o conteúdo da oficina para ministrar em um período de tempo menor, garantindo o tempo previsto anterior, de 1 hora e 30 minutos. No entanto, a aplicação do quiz em grupo não se mostrou viável, tendo em vista que excederia o tempo previsto, além da limitação física na separação dos grupos, que inclui a disposição do espaço e movimentação dos participantess. 
+
+Infelizmente, nosso público previsto era de 23 participantes confirmados, mas o clima estava chuvoso. 
+
+`<Relato analítico da primeira aplicação.>`
+
+### Evidências e Feedback
+
+> Apresente os principais resultados obtidos com os instrumentos previstos na E2, como respostas, observações, produções dos participantes ou feedback. Quando possível, informe quantas pessoas responderam. Diferencie observações, opiniões e conclusões; registre limitações da coleta. Não publique respostas identificáveis ou imagens sem autorização.
+
+- Adicionar a tabela do formulário - 
+
+A única limitação foram respostas genéricas que limitam nossa análise.
+
+`<Principais evidências, interpretação e limitações. Inclua links para materiais ou resultados anonimizados, quando pertinente.>`
+
+## Plano de Aprimoramento para a Segunda Aplicação
+
+> A segunda aplicação deve incorporar aprendizados da primeira. Indique as mudanças mais importantes, sua justificativa e o efeito esperado. Não é necessário propor mudanças artificiais quando algo funcionou bem.
+
+Dessa forma, optamos por adicionar um questionário que será respondido no início e no fim da oficina, além de metrificar o quebra-gelo, ambos no papel. Também diminuímos o número de imagens do quebra-gelo, passando de 8 para 5.
+
+| Evidência ou dificuldade observada | Ajuste proposto | Resultado esperado |
+| --- | --- | --- |
+| `<Falta de medidas para aprimorar a análise>` | `<Adição de questionário inicial, final e durante o quebra-gelo>` | `<A análise dos dados ficará mais precisa e melhora o aspecto prático da oficina>` |
+| `<Redução do número de imagens do quebra-gelo>` | `<Imagens reduzindo de 8 para 5>` | `<Melhora no dinamismo da atividade, criação de espaço para responder o questionário>` |
+
+### Preparação da Segunda Aplicação
+
+> Atualize **nas seções já existentes do README** o roteiro, os materiais, os testes, os responsáveis, a articulação com o público e os indicadores de avaliação que tenham mudado. Aqui, registre somente as pendências ou decisões mais importantes para a próxima aplicação.
+
+- **Situação da segunda aplicação:** `<contexto/período previsto e o que já está encaminhado>`
+- **Pendências prioritárias:** `<o que falta concluir ou confirmar>`
+- **Como verificaremos as melhorias:** `<que evidências serão observadas ou coletadas>`
 
 ## Referências
 
