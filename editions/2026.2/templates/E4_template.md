@@ -22,7 +22,7 @@
 
 ### Evidências e Feedback
 
-> Apresente os principais resultados obtidos com os instrumentos previstos na E2, como respostas, observações, produções dos participantes ou feedback. Quando possível, informe quantas pessoas responderam. Diferencie observações, opiniões e conclusões; registre limitações da coleta. Não publique respostas identificáveis ou imagens sem autorização.
+> Apresente os principais resultados obtidos com os instrumentos previstos anteriormente, como respostas, observações, produções dos participantes ou feedback. Quando possível, informe quantas pessoas responderam. Diferencie observações, opiniões e conclusões; registre limitações da coleta. Não publique respostas identificáveis ou imagens sem autorização.
 
 `<Principais evidências, interpretação e limitações. Inclua links para materiais ou resultados anonimizados, quando pertinente.>`
 

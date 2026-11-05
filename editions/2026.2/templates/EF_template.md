@@ -47,7 +47,7 @@
 
 ### Caracterização dos Participantes
 
-> Caracterize o público **efetivamente atendido**, distinguindo, sempre que possível, pessoas inscritas, presentes e respondentes da avaliação. Informe como esses números foram obtidos. Use apenas características relevantes e disponíveis, de forma **agregada e não identificável**; não é necessário coletar dados demográficos adicionais para preencher a tabela.
+> Caracterize o público **efetivamente atendido**, distinguindo, sempre que possível, pessoas inscritas, presentes e respondentes da avaliação. Informe como esses números foram obtidos. Use apenas características relevantes e disponíveis, de forma **agregada e não identificável**.
 
 | Informação | Primeira aplicação | Segunda aplicação |
 | --- | ---: | ---: |
