@@ -210,9 +210,9 @@ A média de 9,8 nas avaliações pós-oficina reforça a boa receptividade dos p
 
 | Participante | Recebeu cartilha? | Nota (1 a 10) | Gostaria de mais eventos do tipo na associação? | Comentário |
 | --- | --- | --- | --- | --- |
-| 1 | SIM | 9,8 | SIM | PALESTRA BEM INFORMATIVA |
-| 2 | SIM | 10 | SIM | MUITO INTERESSANTE E ESCLARECEDOR |
-| 3 | SIM | 10 | NÃO | INFORMAÇÕES SEMPRE MUITO IMPORTANTES. |
+| 1 | SIM | 9,8 | SIM | Palestra bem informativa |
+| 2 | SIM | 10 | SIM | Muito interessante e esclarecedor. |
+| 3 | SIM | 10 | NÃO | Informações sempre muito importantes. |
 | 4 | SIM | 10 | SIM | Considero muito bom haver eventos desse tipo., Louvo o empenho das pessoas que organizarem este evento. Muito didáticas as falas. |
 | 5 | SIM | 10 | SIM | Muito boa esta atividade. |
 | 6 | SIM | 10 | SIM | Informações dadas foram muito importantes. |
@@ -244,13 +244,13 @@ Optamos por adicionar um questionário que será respondido no início e no fim 
 
 ## Referências
 
-- LOPES, Thaynara Ferreira; ALMEIDA, Paulo César de; RIBEIRO, Aridiane Alves; OKUNO, Meiry Fernanda Pinto. Trends and factors associated with cyber fraud among older adults: a decade of administrative data in Brazil. Frontiers in Public Health, 2026. Disponível em: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414271/)
-- IBGE. Em 5 anos, uso da internet no Brasil acelera e chega a 69% entre os idosos, diz IBGE. G1, 2025. Disponível em: [G1](https://g1.globo.com/tecnologia/noticia/2025/07/24/em-5-anos-uso-da-internet-no-brasil-acelera-e-chega-a-69percent-entre-os-idosos-diz-ibge.ghtml)
-- MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO. Fraudes digitais contra idosos disparam e desafiam estratégias de TI. 2026. Disponível em: [MPMT](https://www.mpmt.mp.br/conteudo/1217/172311/fraudes-digitais-contra-idosos-disparam-e-desafiam-estrategias-de-ti)
-- CERT.br. Cartilha de Segurança para Internet. São Paulo: NIC.br. Disponível em: [CERT.br](https://cartilha.cert.br/)
-- KASPERSKY. AI voice and deepfake scams: why you can't trust a familiar voice anymore. 2026. Disponível em: [Kaspersky](https://www.kaspersky.com.br/resource-center/threats/ai-voice-scam)
-- MCKENDRICK, Joe. Phishing, deepfakes e voz clonada: como a IA está mudando os golpes. Forbes Brasil, 2026. Disponível em: [Forbes Brasil](https://forbes.com.br/forbes-tech/2026/08/phishing-deepfakes-e-voz-clonada-como-a-ia-esta-mudando-os-golpes/)
-- O GLOBO. Deepfake: IA cria reunião falsa com diretor financeiro de multinacional, que transfere R$ 129 milhões a criminosos. 2024. Disponível em: [O Globo](https://oglobo.globo.com/economia/negocios/noticia/2024/02/04/deepfake-ia-cria-reuniao-falsa-com-diretor-financeiro-de-multinacional-que-transfere-r-129-milhoes-a-criminosos.ghtml)
-- ESTADO DE MINAS. Golpe com deepfake: uso de rostos de famosos em fraudes cresce 400% no Brasil. 2026. Disponível em: [Estado de Minas](https://www.em.com.br/tecnologia/2026/09/7495936-golpe-com-deepfake-uso-de-rostos-de-famosos-em-fraudes-cresce-400-no-brasil.html)
-- METRÓPOLES. Golpe da falsa central: PCDF prende quadrilha que lesou idosos. 2026. Disponível em: [Metrópoles](https://www.metropoles.com/colunas/mirelle-pinheiro/golpe-da-falsa-central-pcdf-prende-quadrilha-que-lesou-idosos)
-- BAND. Fraudes no e-commerce devem superar R$ 8,1 bilhões no Brasil em 2026. 2026. Disponível em: [Band](https://www.band.com.br/economia/noticias/fraudes-no-e-commerce-devem-superar-r-81-bilhoes-no-brasil-em-2026-202608101353)
+- LOPES, Thaynara Ferreira; ALMEIDA, Paulo César de; RIBEIRO, Aridiane Alves; OKUNO, Meiry Fernanda Pinto. *Trends and factors associated with cyber fraud among older adults: a decade of administrative data in Brazil*. Frontiers in Public Health, 2026. Disponível em: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414271/)
+- IBGE. *Em 5 anos, uso da internet no Brasil acelera e chega a 69% entre os idosos, diz IBGE*. G1, 2025. Disponível em: [G1](https://g1.globo.com/tecnologia/noticia/2025/07/24/em-5-anos-uso-da-internet-no-brasil-acelera-e-chega-a-69percent-entre-os-idosos-diz-ibge.ghtml)
+- MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO. *Fraudes digitais contra idosos disparam e desafiam estratégias de TI*. 2026. Disponível em: [MPMT](https://www.mpmt.mp.br/conteudo/1217/172311/fraudes-digitais-contra-idosos-disparam-e-desafiam-estrategias-de-ti)
+- CERT.br. *Cartilha de Segurança para Internet*. São Paulo: NIC.br. Disponível em: [CERT.br](https://cartilha.cert.br/)
+- KASPERSKY. *AI voice and deepfake scams: why you can't trust a familiar voice anymore*. 2026. Disponível em: [Kaspersky](https://www.kaspersky.com.br/resource-center/threats/ai-voice-scam)
+- MCKENDRICK, Joe. *Phishing, deepfakes e voz clonada: como a IA está mudando os golpes*. Forbes Brasil, 2026. Disponível em: [Forbes Brasil](https://forbes.com.br/forbes-tech/2026/08/phishing-deepfakes-e-voz-clonada-como-a-ia-esta-mudando-os-golpes/)
+- O GLOBO. *Deepfake: IA cria reunião falsa com diretor financeiro de multinacional, que transfere R$ 129 milhões a criminosos*. 2024. Disponível em: [O Globo](https://oglobo.globo.com/economia/negocios/noticia/2024/02/04/deepfake-ia-cria-reuniao-falsa-com-diretor-financeiro-de-multinacional-que-transfere-r-129-milhoes-a-criminosos.ghtml)
+- ESTADO DE MINAS. *Golpe com deepfake: uso de rostos de famosos em fraudes cresce 400% no Brasil*. 2026. Disponível em: [Estado de Minas](https://www.em.com.br/tecnologia/2026/09/7495936-golpe-com-deepfake-uso-de-rostos-de-famosos-em-fraudes-cresce-400-no-brasil.html)
+- METRÓPOLES. *Golpe da falsa central: PCDF prende quadrilha que lesou idosos*. 2026. Disponível em: [Metrópoles](https://www.metropoles.com/colunas/mirelle-pinheiro/golpe-da-falsa-central-pcdf-prende-quadrilha-que-lesou-idosos)
+- BAND. *Fraudes no e-commerce devem superar R$ 8,1 bilhões no Brasil em 2026*. 2026. Disponível em: [Band](https://www.band.com.br/economia/noticias/fraudes-no-e-commerce-devem-superar-r-81-bilhoes-no-brasil-em-2026-202608101353)
