@@ -212,7 +212,7 @@ A média de 9,8 nas avaliações pós-oficina reforça a boa receptividade dos p
 | --- | --- | --- | --- | --- |
 | 1 | SIM | 9,8 | SIM | PALESTRA BEM INFORMATIVA |
 | 2 | SIM | 10 | SIM | MUITO INTERESSANTE E ESCLARECEDOR |
-| 3 | SIM | 10 | SIM | INFORMAÇÕES SEMPRE MUITO IMPORTANTES. |
+| 3 | SIM | 10 | NÃO | INFORMAÇÕES SEMPRE MUITO IMPORTANTES. |
 | 4 | SIM | 10 | SIM | Considero muito bom haver eventos desse tipo., Louvo o empenho das pessoas que organizarem este evento. Muito didáticas as falas. |
 | 5 | SIM | 10 | SIM | Muito boa esta atividade. |
 | 6 | SIM | 10 | SIM | Informações dadas foram muito importantes. |
