@@ -11,7 +11,7 @@
 
 ## Proposta
 
-O projeto Ciberidosos busca promover a divulgação de conhecimentos básicos em Cibersegurança e Inteligência Artificial voltada à população idosa. A proposta principal é oferecer oficinas presenciais em casas de repouso, com o intuito de contribuir para a conscientização dessa população e fornecer ferramentas mínimas de proteção contra golpes e fraudes na internet. Sabemos que trabalhar com casas de repouso pode ser desafiador; logo, caso não seja possível trabalhar com esse público, entraremos em contato com paróquias e associações de bairro.
+O projeto Ciberidosos busca promover a divulgação de conhecimentos básicos em Cibersegurança e Inteligência Artificial voltada à população idosa. A proposta principal é oferecer oficinas presenciais em ambientes frequentados pelo público 60+, como associações de bairros, paróquias, centros públicos e culturais, com o intuito de contribuir para a conscientização dessa população e fornecer ferramentas mínimas de proteção contra golpes e fraudes na internet. 
 
 ## Problema e Contexto
 
@@ -188,7 +188,7 @@ No fim da atividade, deixaremos um espaço para dúvidas e sugestões. Pediremos
 | --- | --- | --- |
 | Pouco engajamento | Prejudicar a compreensão dos conteúdos | Utilizar linguagem simples e focar na parte prática e colaborativa |
 | Problemas técnicos | Impossibilitar o uso de slides | Levaremos material impresso |
-| Problemas relacionados à saúde no local | Interrupção da oficina | Contaremos com a ajuda de enfermeiros e/ou profissionais de geriatria |
+| Problemas relacionados à saúde no local | Interrupção da oficina | Contato emergencial para os setores responsáveis para cessar ou diminuir danos |
 
 ## Primeira Aplicação — Registro e Análise
 
